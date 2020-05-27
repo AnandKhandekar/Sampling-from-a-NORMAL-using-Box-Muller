@@ -1,0 +1,2 @@
+# Sampling-froma-NORMAL-using-Box-Muller
+The Normal Distribution is the workhorse of many common statistical analyses and being able to draw samples from this distribution lies at the heart of many statistical/machine learning algorithms. There have been a number of methods developed to sample from the Normal distribution including Inverse Transform Sampling, the Ziggurat Algorithm, and the Ratio Method (a rejection sampling technique). In this post we will focus on an elegant method called the Box-Muller transform.
